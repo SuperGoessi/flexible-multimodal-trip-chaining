@@ -30,7 +30,7 @@ You just need a working C++ compiler.
 This code can be compiled directly in Visual Studio (Windows) or using `g++` / `clang++` on Linux/macOS.
 
 ## 🖼 Example Output
-Below is a processed example output from running the demo:
+Below is a processed example output generated from the raw text file produced by running the demo:
 
 <img width="522" height="473" alt="image" src="https://github.com/user-attachments/assets/7ac1749d-cd87-4f03-9b4c-a26de1f3d70a" />
 
